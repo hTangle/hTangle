@@ -1,5 +1,5 @@
 ### Hi there 👋
-**my website domain name ahsup.top is suspend by aliyun, visit [BLOG](www.hxsup.top) instead**
+**my website domain name ahsup.top is suspend by aliyun, visit [[BLOG](www.hxsup.top) ](https://www.hxsup.top/)instead**
 
 - I’m currently working as a backend development engineer at [ByteDance](https://www.bytedance.com/)
 - I’m currently learning [Golang](https://go.dev/)、[React](https://reactjs.org/)、[mini-program for wechat](https://developers.weixin.qq.com/minigame/dev/guide/)
